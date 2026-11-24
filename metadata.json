@@ -1,0 +1,6 @@
+{
+  "name": "RupeeLedger",
+  "description": "Personal finance management web application with bank account tracking, monthly income allocation, category-wise expense tracking, and SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
